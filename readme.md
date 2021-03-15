@@ -1,3 +1,6 @@
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 # Deep Learning Inference Framework Speed Benchmarks - CPU
 
 ## About 
@@ -124,3 +127,12 @@ It is therefore important to measure the latency on AMD CPUs, shown below:
 
 ![alt text](./images/amd_ryzen.png)
 ![alt text](./images/amd_epyc.png)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[stars-shield]: https://img.shields.io/github/stars/getchui/deep_learning_inference_framework_benchmarks.svg?style=flat-square
+[stars-url]: https://github.com/getchui/deep_learning_inference_framework_benchmarks/stargazers
+[issues-shield]: https://img.shields.io/github/issues/getchui/deep_learning_inference_framework_benchmarks.svg?style=flat-square
+[issues-url]: https://github.com/getchui/deep_learning_inference_framework_benchmarks/issues
